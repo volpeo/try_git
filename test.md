@@ -11,5 +11,5 @@ Astuce : utiliser l'option « -u » pour voir le détail des répertoires.
 Permet d'ajouter un fichier à l'index, git n'ajoute rien par défaut, c'est à vous de lui dire quoi faire. 
 Utiliser l'option « --all » pour ajouter tous les fichiers.
 
-##git commit -m "<votre message de commit>"    
+##git commit -m "votre message de commit"
 Fait un instantané des fichiers indexés (staging) et les place dans l'historique. Une empreinte, un auteur, une date et un message lui sont attribué.
