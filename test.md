@@ -13,3 +13,9 @@ Utiliser l'option « --all » pour ajouter tous les fichiers.
 
 ##git commit -m "votre message de commit"
 Fait un instantané des fichiers indexés (staging) et les place dans l'historique. Une empreinte, un auteur, une date et un message lui sont attribué.
+
+Liste
+- bla
+- bla
+- blabl
+- bla
